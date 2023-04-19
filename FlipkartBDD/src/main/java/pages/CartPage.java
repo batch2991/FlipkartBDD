@@ -13,6 +13,6 @@ public class CartPage
   }
   public void validateproductsinCart()
   {
-	  
+	System.out.println("to validate products in cart");  
   }
 }
