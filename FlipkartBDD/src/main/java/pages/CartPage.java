@@ -11,4 +11,8 @@ public class CartPage
   {
 	  
   }
+  public void validateproductsinCart()
+  {
+	  
+  }
 }
