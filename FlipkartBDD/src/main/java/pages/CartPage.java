@@ -15,4 +15,8 @@ public class CartPage
   {
 	System.out.println("to validate products in cart");  
   }
+  public void getproductsincart()
+  {
+	  
+  }
 }
