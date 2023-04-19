@@ -9,7 +9,7 @@ public class CartPage
   
   public void removefromcart()
   {
-	  
+	  System.out.println("to remove a product from cart");
   }
   public void validateproductsinCart()
   {
