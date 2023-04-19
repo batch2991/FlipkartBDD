@@ -10,5 +10,9 @@ public class Payments
 	{
 		
 	}
+	public void f2()
+	{
+		
+	}
 
 }
